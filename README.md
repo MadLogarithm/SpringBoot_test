@@ -1,6 +1,6 @@
 # SpringBoot_test
 
-'Learn and create basic SpringBoot.'
+Learn and create basic SpringBoot using Gradle-Groovy.
 
 ____
 
