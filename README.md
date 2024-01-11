@@ -2,7 +2,9 @@
 
 'Learn and create basic SpringBoot.'
 
-# Getting Started
+____
+
+## Getting Started
 
 ### Reference Documentation
 For further reference, please consider the following sections:
